@@ -23,13 +23,13 @@ function divide(a, b) {
 divide()
 
 function inc(n) {
-  return n++;
+  return n ++;
 }
 
 inc()
 
 function dec(n) {
-  return n--;
+  return n --;
 }
 
 dec()
